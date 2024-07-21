@@ -1,4 +1,4 @@
-/* .contactList {
+ .contactList {
   list-style: none;
   max-width: 500px;
   display: flex;
@@ -30,7 +30,7 @@
   border: none;
   cursor: pointer;
   position: relative;
-} */
+} 
 .container {
   display: flex;
   flex-direction: column;
